@@ -47,6 +47,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srajan-kush&layout=compact&theme=radical)
+
 ---
 
 ### 📊 GitHub Stats  
@@ -54,6 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=srajan-kush&show_icons=true&theme=tokyonight&cache_seconds=7200" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srajan-kush&theme=tokyonight&cache_seconds=7200" height="160px" />
 </p>
+
 
 
 ---
