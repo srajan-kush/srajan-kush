@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A800&center=true&width=450&lines=Student+at+IIITDM+Kurnool;MERN+Stack+Learner;Django+%7C+ML+Enthusiast;Open+to+Collaboration" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/srajan-kush">
+    <img src="https://komarev.com/ghpvc/?username=srajan-kush&style=flat-square&color=blue" alt="Profile Views"/>
+  </a>
+</p>
+
 ---
 
 ### 🚀 About Me  
