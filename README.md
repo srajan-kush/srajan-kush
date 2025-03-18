@@ -69,10 +69,12 @@
 
 ### 📬 Connect with Me  
 <p align="left">
-  <a href="mailto:srajank2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/srajan-kushwaha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://codepen.io/srajan-kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="srajan-kushwaha" height="30" width="40" /></a>
+<a href="https://twitter.com/srajan_k0143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srajan_k0143" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srajan-kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srajan-kushwaha" height="30" width="40" /></a>
+<a href="https://kaggle.com/srajankushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srajankushwaha" height="30" width="40" /></a>
+<a href="https://instagram.com/sraja.n.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sraja.n.k" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/srajan_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srajan_k" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/srajan-kush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srajan-kush" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/srajancrzv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srajancrzv" height="30" width="40" /></a>
 </p>
