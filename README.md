@@ -62,14 +62,13 @@
 
 <p align="center">
   <a href="https://github.com/srajan-kush">
-    <img src="https://github-readme-stats.vercel.app/api?username=srajan-kush&show_icons=true&theme=tokyonight&cache_seconds=7200" height="180px" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srajan-kush&theme=tokyonight&cache_seconds=7200" height="180px" />
-  </a>  
-</p>  
-
-<p align="center">
-  <a href="https://github.com/srajan-kush">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srajan-kush&layout=compact&theme=radical" height="180px" />
+  </a>
+  <a href="https://github.com/srajan-kush">
+    <img src="https://github-readme-stats.vercel.app/api?username=srajan-kush&show_icons=true&theme=tokyonight&cache_seconds=7200" height="180px" />
+  </a>
+  <a href="https://github.com/srajan-kush">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srajan-kush&theme=tokyonight&cache_seconds=7200" height="180px" />
   </a>
 </p>
 
