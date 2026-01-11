@@ -57,8 +57,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats  
+<!--## 📊 GitHub Stats  
 
 <p align="center">
   <a href="https://github.com/srajan-kush">
@@ -67,9 +66,6 @@
   <a href="https://github.com/srajan-kush">
     <img src="https://github-readme-stats.vercel.app/api?username=srajan-kush&show_icons=true&theme=tokyonight&cache_seconds=7200" height="180px" />
   </a>
-<!--   <a href="https://github.com/srajan-kush">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srajan-kush&theme=tokyonight&cache_seconds=7200" height="180px" />
-  </a> -->
 </p>
 
 ## 🚀 Contribution Activity  
@@ -85,7 +81,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srajan-kush&theme=tokyonight" height="180px" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srajan-kush&theme=tokyonight" height="180px" />
   </a>
-</p>
+</p> 
+-->
 
 ## 🎯 Contribution Graph  
 
@@ -95,13 +92,15 @@
   </a>
 </p>
 
-## ✨ GitHub Trophies  
+<!-- ## ✨ GitHub Trophies  
 
 <p align="center">
   <a href="https://github.com/srajan-kush">
     <img src="https://github-profile-trophy.vercel.app/?username=srajan-kush&theme=tokyonight&no-frame=true&column=7" />
   </a>
 </p>
+
+-->
 
 
 ---
